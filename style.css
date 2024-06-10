@@ -72,3 +72,10 @@ body{
     background-position: calc(100% - 10px);
     background-size: 30px;
 }
+#result{
+    font-size: 20px;
+    margin-top: 60px;
+}
+#result span{
+    color: rgba(238, 255, 0, 0.904);
+}
